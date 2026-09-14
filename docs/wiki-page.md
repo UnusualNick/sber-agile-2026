@@ -1,16 +1,16 @@
 # ДЗ №1: связь задач, Wiki и кода
 
-Эта страница предназначена для Wiki учебного репозитория команды. Перед публикацией заменить маркеры на реальные ссылки.
+Эта страница предназначена для Wiki учебного репозитория команды. Ссылка на PR появится после его создания.
 
 ## Задачи
 
-- **Epic:** `EPIC_URL` — настроить единое пространство команды.
-- **Story:** `STORY_URL` — показать сквозной путь от задачи до Pull Request. Story должна быть связана с Epic в GitHub Projects.
+- **Epic:** [задача #1](https://github.com/UnusualNick/sber-agile-2026/issues/1) — настроить единое пространство команды.
+- **Story:** [задача #2](https://github.com/UnusualNick/sber-agile-2026/issues/2) — показать сквозной путь от задачи до Pull Request. Story является дочерней задачей Epic.
 
 ## Код
 
-- **Репозиторий:** `REPOSITORY_URL`
-- **Ветка Story:** `STORY_BRANCH_NAME`
+- **Репозиторий:** [sber-agile-2026](https://github.com/UnusualNick/sber-agile-2026)
+- **Ветка Story:** `story-2-team-workflow`
 - **Pull Request и merge в master:** `PULL_REQUEST_URL`
 
 ## Проверка
