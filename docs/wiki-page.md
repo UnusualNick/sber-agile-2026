@@ -1,6 +1,6 @@
 # ДЗ №1: связь задач, Wiki и кода
 
-Эта страница предназначена для Wiki учебного репозитория команды. Ссылка на PR появится после его создания.
+Эта страница предназначена для Wiki учебного репозитория команды. Пока GitHub Wiki в приватном репозитории недоступна, текст хранится здесь.
 
 ## Задачи
 
@@ -11,7 +11,7 @@
 
 - **Репозиторий:** [sber-agile-2026](https://github.com/UnusualNick/sber-agile-2026)
 - **Ветка Story:** `story-2-team-workflow`
-- **Pull Request и merge в master:** `PULL_REQUEST_URL`
+- **Pull Request и merge в master:** [PR #3](https://github.com/UnusualNick/sber-agile-2026/pull/3)
 
 ## Проверка
 

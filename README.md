@@ -31,7 +31,7 @@
 | Epic | [Задача #1](https://github.com/UnusualNick/sber-agile-2026/issues/1) |
 | Story, дочерняя к Epic | [Задача #2](https://github.com/UnusualNick/sber-agile-2026/issues/2) |
 | Wiki | Заполнить после создания |
-| Pull Request | Заполнить после слияния |
+| Pull Request | [PR #3](https://github.com/UnusualNick/sber-agile-2026/pull/3) |
 
 Разобранный пример движения задачи до PR находится в [документации процесса](docs/team-workflow.md).
 
