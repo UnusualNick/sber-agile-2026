@@ -1,6 +1,6 @@
 # Agile-подходы в работе с командами — ДЗ №1
 
-Учебное пространство команды для связи задач, базы знаний и кода.
+Учебное пространство команды для связи задач, Wiki и кода.
 
 ## Что делает команда
 
@@ -9,7 +9,7 @@
 1. Epic описывает общую цель — настроить пространство команды.
 2. Story уточняет небольшую проверяемую задачу внутри Epic.
 3. Ветка от Story содержит изменение документации; Pull Request проходит в `master`.
-4. Страница базы знаний связывает Epic и Story и объясняет, где находится код.
+4. GitHub Wiki связывает Epic и Story и объясняет, где находится код.
 
 ## Состав и ссылки
 
@@ -17,10 +17,10 @@
 
 | Участник | GitHub |
 | --- | --- |
-| Илья Бобоедов | @UnusualNick |
-| Максим Бучельников | @BBLD10W0-1010 |
-| София Макеенко | @MakesoP |
-| Иван Митрофанов | @soldurmom |
+| Илья Бобоедов | [@UnusualNick](https://github.com/UnusualNick) |
+| Максим Бучельников | [@BBLD10W0-1010](https://github.com/BBLD10W0-1010) |
+| София Макеенко | [@MakesoP](https://github.com/MakesoP) |
+| Иван Митрофанов | [@soldurmom](https://github.com/soldurmom) |
 
 Рабочие ссылки:
 
@@ -29,14 +29,12 @@
 | GitHub Project | [Sber Agile — ДЗ №1](https://github.com/users/UnusualNick/projects/1/views/1) |
 | Epic | [Задача #1](https://github.com/UnusualNick/sber-agile-2026/issues/1) |
 | Story, дочерняя к Epic | [Задача #2](https://github.com/UnusualNick/sber-agile-2026/issues/2) |
-| База знаний / Wiki-страница | [docs/wiki-page.md](docs/wiki-page.md) |
+| GitHub Wiki | [Home](https://github.com/UnusualNick/sber-agile-2026/wiki) |
 | Pull Request | [PR #3](https://github.com/UnusualNick/sber-agile-2026/pull/3) |
 
 Разобранный пример движения задачи до PR находится в [документации процесса](docs/team-workflow.md).
 
-> Встроенная GitHub Wiki недоступна для приватного репозитория на текущем тарифе. Чтобы не раскрывать учебный репозиторий публично, Wiki-страница хранится как Docs-as-Code внутри этого репозитория.
-
-**Доступ преподавателя:** к GitHub Project выдан доступ на чтение; приглашение в приватный репозиторий отправлено и ожидает принятия.
+**Доступ преподавателя:** к GitHub Project выдан доступ на чтение; репозиторий, Issues и Wiki доступны публично.
 
 **Контрольный срок:** 18 сентября 2026 года, 12:00. Часовой пояс на слайде не указан.
 
